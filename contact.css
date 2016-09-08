@@ -1,0 +1,130 @@
+html, body {
+	font-family: Georgia, serif;
+	height: 100%;
+	margin: 0;
+	width: 100%;
+}
+
+header {
+	background-color: #b6d9c5;
+}
+
+header .row {
+	display: inline-flex;
+	padding-top: 10px;
+	
+}
+
+.col-md-12{
+	display: inline-flex;
+	align-items: center;
+
+}
+
+.col-md-12 p{
+	font-size: 18px;
+	margin-left: 60px;
+
+}
+
+.col-md-6 {
+	margin: 10px;
+	display: inline-flex;
+	align-items: center;
+}
+
+.col-md-6 img{
+	margin: 0 auto;
+}
+
+.col-md-7 {
+	margin: 0 auto;
+}
+
+a {
+	margin: 0 auto;
+}
+
+.logo {
+	background-color: #85bba0;
+	align-items: center;
+	height: 260px;
+}
+
+.container {
+	height: 800px;
+
+}
+
+.jumbotron {
+	margin-top: 30px;
+	padding: 0;
+}
+
+input {
+	width: 100%;
+
+}
+
+
+.main {
+	width: 100%;
+	height: auto;
+	background-color: #e0eecb;
+	margin-top: 30px;
+	display: inline-flex;
+}
+
+.main h2{
+	text-align: center;
+}
+
+.footer {
+	margin-top: 30px;
+	width: 100%;
+	height: 250px;
+	background-color: #124d5a;
+}
+
+.footer p{
+	position: relative;
+}
+
+a:link {
+    color: #114c59;
+}
+
+/* visited link */
+a:visited {
+    color: #114c59;
+}
+
+/* mouse over link */
+a:hover {
+    color: #dcf3aa;
+}
+
+/* selected link */
+a:active {
+    color: #dcf3ab;
+}
+
+p {
+	font-family: 'PT Sans', sans-serif;
+}
+
+h1 {
+	font-family: 'PT Sans', sans-serif;
+}
+
+h2 {
+	font-family: 'PT Sans', sans-serif;
+}
+
+h3 {
+	font-family: 'PT Sans', sans-serif;
+}
+
+form {
+	font-family: 'PT Sans', sans-serif;
+  }
